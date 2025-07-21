@@ -20,3 +20,5 @@ Applied data cleaning, custom DAX calculations, and advanced visualizations in P
 Enhanced my data storytelling skills while gaining experience in social-impact data analytics.
 
 LinkedIn :- https://www.linkedin.com/posts/preeti-raj-645397323_powerbi-dataanalytics-dashboarddesign-activity-7352702577509117953-3fd-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFG_n9UB3E8VLXvJhz4H5ajWpvWScsuTd1A
+
+https://www.linkedin.com/posts/preeti-raj-645397323_powerbi-ecommerce-datavisualization-activity-7352630859503419393-EiUx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFG_n9UB3E8VLXvJhz4H5ajWpvWScsuTd1A
